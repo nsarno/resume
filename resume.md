@@ -9,7 +9,7 @@
 #### Washos
 **Ruby on Rails developer - 2015**
 
-Working remotely with the Washos team, it was only a matter of hours until I could get familiar enough with the codebase to bring significant value to their project. I was able to use my expertise in writing fast and scalable Ruby on Rails code to heavily improve the overall performance of the Washos back-office. Mostly by targeting and removing all N+1 queries.
+I was able to use my expertise in writing fast and scalable Ruby on Rails code to heavily improve the overall performance of the Washos back-office, mostly by targeting and removing all N+1 queries.
 
 I also used my knowledge with Arel to create complex queries to pull data out and build charts that helped the marketing and sales team improve the efficiency of their strategy.
 

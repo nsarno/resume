@@ -88,4 +88,4 @@ A pet project using Elixir and the Phoenix framework.
 **Master of Science in Computer Science - 2009 / 2014**
 
 #### California State University, Long Beach
-** Engineering exchange student - 2013**
+**Engineering exchange student - 2013**

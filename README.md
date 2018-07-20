@@ -8,13 +8,20 @@ arnaud.mesureur@gmail.com<br>
 ### Experience
 
 #### Flippa
-**Ruby on Rails developer**<br>
-**19 October 2015 to 19 April 2016**
-
 Flippa<br>
 48 Cambridge St<br>
 3066 Collingwood, VIC<br>
 Australia<br>
+
+**Senior Ruby on Rails developer**<br>
+**1st January 2017 to present (July 2018)**
+
+- Maintain and improve the code and infrastructure of the online marketplace
+- Contribute to gathering of requirements and engineering of new solutions
+- Mentoring of other developers
+
+**Ruby on Rails developer**<br>
+**19 October 2015 to 1st January 2017**
 
 - Continuously improved the marketplace using Rails and ReactJS
 - Worked on improving the search experience using ElasticSearch
@@ -29,13 +36,15 @@ Australia<br>
 - Created complex queries to pull data out and build charts to help the marketing and sales team improve their strategy
 
 #### Quanta Computing
-**Ruby on Rails developer**<br>
-**01 September 2013 to 01 November 2014**
 
 Quanta Computing<br>
 41, rue Saint Augustin<br>
 75002 Paris<br>
 France
+
+**Ruby on Rails developer**<br>
+**01 September 2013 to 01 November 2014**
+
 
 - Built from scratch Quanta Monitoring, a performance intelligence application
 - Created and maintained a data intensive Rails API
@@ -44,37 +53,40 @@ France
 - Created scripts to aggregate data from various sources like Google Analytics, Zabbix, Magento.
 
 #### Appsfire
-**iOS developer (internship)**<br>
-**01 April 2012 to 01 October 2012**
 
 Appsfire<br>
-3 rue de l'Arrivée (Tour CIT)<br>
+3 rue de l'Arrivee (Tour CIT)<br>
 75015 Paris<br>
 France
+
+**iOS developer (internship)**<br>
+**01 April 2012 to 01 October 2012**
 
 - Integrated the SDK in frameworks like Titanium, Phonegap, Unity
 - Built demo applications to showcase Appsfire SDK
 - Created original animations for the Appsfire app
 
 #### Sam&Don Agency
-**iOS developer (internship)**<br>
-**01 August 2011 to 01 January 2012**
 
 Sam&Don Agency<br>
 32 Rue Pierre Fontaine<br>
 75009 Paris<br>
 France
 
+**iOS developer (internship)**<br>
+**01 August 2011 to 01 January 2012**
+
 - Design, develop & maintain iOS applications
 
 #### Miyowa
-**Web developer (internship) - 2010**<br>
-**01 July 2010 to 31 December 2011**
 
 Miyowa<br>
 Les Docks, 10 Place de la Joliette<br>
 13002 Marseille<br>
 France
+
+**Web developer (internship) - 2010**<br>
+**01 July 2010 to 31 December 2011**
 
 - Design, develop & maintain web applications
 

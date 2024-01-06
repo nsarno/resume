@@ -39,11 +39,6 @@ Constructed a high-traffic name server for domain parking pages.
 - Implemented significant application and database optimization to improve the overall performance of the platform.
 - Trained the engineering team on tooling, processes and best practices around web and database performance and performance regression testing.
 
-
-> Arnaud is a fast learner. He jumped in a massive Rails code base at Washos and has immediately been involved in critical customer facing features. His capacity to handle production app with professionalism and tons of best practices impressed us. I would hire Arnaud without any question, from backend to frontend with even knowledge in iOS, he's the full stack engineer we all want in our teams.
-
-*Benjamin Guez, Washos CTO and Co-Founder*
-
 #### Full-stack Software Engineer | Mobile Network, 2015
 
 - Designed, implemented, and delivered a business-critical platform for Apple device enrollment for a mobile device management (MDM) and enterprise mobility management (EMM) company.
@@ -67,3 +62,8 @@ I authored the `knock` ruby gem (https://github.com/nsarno/knock). It has been f
 - Epitech | Master of Computer Science, 2014
 - California State University, Long Beach | Engineering exchange program, 2013
 
+### References
+
+> Arnaud is a fast learner. He jumped in a massive Rails code base at Washos and has immediately been involved in critical customer facing features. His capacity to handle production app with professionalism and tons of best practices impressed us. I would hire Arnaud without any question, from backend to frontend with even knowledge in iOS, he's the full stack engineer we all want in our teams.
+
+*Benjamin Guez, Washos CTO and Co-Founder*

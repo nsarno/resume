@@ -1,61 +1,69 @@
-## Arnaud Mesureur | Head of Engineering
+## Arnaud Mesureur
 
-- [LinkedIn - linkedin.com/in/arnaudmesureur](https://www.linkedin.com/in/arnaudmesureur)
+I have a proven track record in managing engineering teams and developing scalable web applications in fast-paced environments. My experience spans from creating advanced web performance analytics platforms to leading the engineering department of a successful online marketplace. Recently, I spearheaded a project to design and build a comprehensive payments and taxes platform, handling millions in transactions and integrating multiple PSPs, for one of the largest global micro-mobility operators.
+
+**Links**
+
+- [Toptal - toptal.com/resume/arnaud-mesureur](https://www.toptal.com/resume/arnaud-mesureur)
 - [Github - github.com/nsarno](https://github.com/nsarno)
-
-------
-
-### Summary
-
-Software engineer at heart, I have a proven track record of building scalable and flexible applications solving real-world problems. I feel the most impactful at the cross-section of product and engineering, where I can have the maximum impact on growth and speed of execution with uncompromised technological excellence. Over the years I have accumulated replicable knowledge on hiring, distributed teams management and processes, business analytics, data engineering, sales, marketing, and customer support operations.
-
-------
+- [LinkedIn - linkedin.com/in/arnaudmesureur](https://www.linkedin.com/in/arnaudmesureur)
 
 ### Experience
+#### Staff Software Engineer | Spin, 2020 - 2024
 
-#### Flippa | Head of Engineering, 2019
+- Designed and implemented a Node.js service managing tax submissions across all countries
+- Led the payment service team and supervised the design and implementation of a new Ruby on Rails payment service capable of supporting multiple payment providers side by side and handling payments across multiple merchants.
+- Handled multiple PSP migrations, most notably from Stripe to Adyen.
+- Designed and implemented payments via PayPal.
 
-As the Head of Engineering, I am playing a critical role in the growth of the business by enabling efficient product delivery, data collection and visualization, hiring and management. The product and engineering department is often relied on by other areas of the business which requires me to have a deep understanding of other functions of the business like sales, marketing or customer support.
+#### Lead Software Engineer | Quinn, 2019 - 2020
 
-#### Flippa | Software Engineer, 2015 - 2018
+- Led the development of a payment, tipping, and vendor management system for an audio sharing platform using Ruby on Rails (RoR) and React.
+- Migrated and scaled the entire infrastructure from DigitalOcean to Heroku.
+- Implemented coding best practices and guidelines into the front-end React application and the Ruby on Rails codebase.
+- Refactored the data modeling at the application and database level.
 
-As a senior software engineer, I have continuously led projects to maintain and enhance the marketplace. I have learnt how to build maintanable and scalable web application as well as how to deal with tech debt and legacy codebases.
+#### Head of Engineering | Flippa, 2015 - 2019
 
-#### Washos | Software Engineer (Remote Freelance), 2015
+- Lead the engineering and product team using Lean and Agile methodologies.
+- Shaped the business by participating in hiring, C-level meetings, business intelligence analytics, and reporting.
+- Developed and maintained the core Ruby on Rails (RoR) marketplace, React front-end, and the AWS infrastructure.
+- Interfaced the core Ruby on Rails application efficiently with multiple external services using an event-driven architecture with RabbitMQ
+- Built and maintained advanced search features using Elasticsearch.
+Constructed a high-traffic name server for domain parking pages.
+- Implemented the funnel and conversion tracking with Google Analytics and Google Tag Manager.
 
-> Arnaud is a fast learner. He jumped in a massive Rails code base at @washos and has immediately been involved in critical customer facing features. His capacity to handle production app with professionalism and tons of best practices impressed us. I would hire Arnaud without any question, from backend to frontend with even knowledge in iOS, he's the full stack engineer we all want in our teams.
+#### Full-stack Software Engineer | Washos, 2015
 
-[Benjamin Guez, Washos CTO and Co-Founder](https://angel.co/nsarno)
+- Delivered a back-office interface for contractors of one of the first on-demand car-wash companies in the US.
+- Implemented significant application and database optimization to improve the overall performance of the platform.
+- Trained the engineering team on tooling, processes and best practices around web and database performance and performance regression testing.
 
-#### Quanta Computing | Software Engineer, 2013 - 2014
 
-As the first engineer, I heavily contributed to building the main solution from the ground up, a SaaS platform for the performance monitoring of eCommerce websites. After a few months of starting the project, we launched and sold the solution to a number of eCommerce companies including some of the most reputable in France and Europe.
-The platform was mainly built using Ruby on Rails and javascript, with an accent on efficient data storage and querying given the sheer volume of data collected.
+> Arnaud is a fast learner. He jumped in a massive Rails code base at Washos and has immediately been involved in critical customer facing features. His capacity to handle production app with professionalism and tons of best practices impressed us. I would hire Arnaud without any question, from backend to frontend with even knowledge in iOS, he's the full stack engineer we all want in our teams.
 
-#### Other
+*Benjamin Guez, Washos CTO and Co-Founder*
 
-- Epitech | C and Unix teacher, 2011 - 2014
-- Appsfire | Software Engineer (Internship), 2012
-- Miyowa | Software Engineer (Internship), 2010
+#### Full-stack Software Engineer | Mobile Network, 2015
 
-------
+- Designed, implemented, and delivered a business-critical platform for Apple device enrollment for a mobile device management (MDM) and enterprise mobility management (EMM) company.
+- Implemented a search and bulk action interface that allowed tasks that would typically take a few days to be executed in a few minutes.
+- Migrated the on-premise infrastructure to the cloud with the addition of a full test suite and a CI/CD pipeline, allowing for a drastically improved development experience and ease of maintainability.
 
-### Open Source Projects
+#### Lead Software Engineer | Quanta, 2013 - 2014
 
-#### [Knock](https://github.com/nsarno/knock) | JSON Web Token authentication for Rails API applications
+- Created the first proof of concept (POC) and minimum viable product (MVP) of the web performance monitoring platform for eCommerce websites.
+- Developed and maintained the core SaaS solution with Ruby on Rails (RoR), MySQL, Redis, and AngularJS.
+- Constructed a Google Analytics poller service to capture business intelligence (BI) data at regular intervals.
+- Built a Zabbix poller service to capture host performance data at regular intervals.
+- Developed a Magento poller service to capture application performance data at regular intervals.
 
-The Knock ruby gem has been featured in RubyWeekly and recommended by Auth0. The project currently has 1826 stars on Github and counting.
+#### Knock | JWT authentication for Rails API apps
 
-------
-
-### Skill Keywords
-
-Team and Product Management, Distributed Teams, Ruby, Rails, Javascript, React, Redux, Agile, Testing, DevOps, Databases, MySQL, Postresql, ElasticSearch, Redis, AWS, Heroku, Marketplace, SaaS
-
-------
+I authored the `knock` ruby gem (https://github.com/nsarno/knock). It has been featured in RubyWeekly and recommended by Auth0 in their official documentation. The project has 2.1k+ stars on Github.
 
 ### Education
 
 - Epitech | Master of Computer Science, 2014
-- California State University, Long Beach | English language diploma and Engineering exchange, 2013
+- California State University, Long Beach | Engineering exchange program, 2013
 

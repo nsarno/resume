@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Arnaud Mesureur's resume",
+  "repository": "git@github.com:nsarno/resume.git",
+  "author": "Arnaud Mesureur <arnaud.mesureur@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  },
+  "scripts": {
+    "build": "cat README.md | md-to-pdf > arnaud-mesureur-resume.pdf"
+  }
+}

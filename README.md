@@ -25,7 +25,7 @@ I have a proven track record in managing engineering teams and developing scalab
 
 #### Head of Engineering | Flippa, 2015 - 2019
 
-- Lead the engineering and product team using Lean and Agile methodologies.
+- Led the engineering and product team using Lean and Agile methodologies.
 - Shaped the business by participating in hiring, C-level meetings, business intelligence analytics, and reporting.
 - Developed and maintained the core Ruby on Rails (RoR) marketplace, React front-end, and the AWS infrastructure.
 - Interfaced the core Ruby on Rails application efficiently with multiple external services using an event-driven architecture with RabbitMQ
